@@ -10,6 +10,6 @@
 }
 
 .bordered {
-    border: 1px dashed blue;
+    border: 4px inset grey;
 }
 
