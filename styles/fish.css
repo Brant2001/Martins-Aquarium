@@ -1,0 +1,10 @@
+.fishList {
+    flex-basis: 65%;
+    display: flex;
+    flex-wrap: wrap
+}
+
+.fish_image {
+    width: 8rem;
+    height: 8rem;
+}

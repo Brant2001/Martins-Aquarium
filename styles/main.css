@@ -1,36 +1,15 @@
+@import "nav.css";
+@import "fish.css";
+@import "tips.css";
+
+
 .container {
     display: flex;
     flex-wrap: nowrap;
     justify-content: space-between;
 }
 
-.fishList {
-    flex-basis: 65%;
-    display: flex;
-    flex-wrap: wrap
-}
-
-.fish_image {
-    width: 8rem;
-    height: 8rem;
-}
-
-.nav_link {
-    padding: 0 1em;
-}
-
-.navigation {
-    margin: 1.5em;
-}
-
-.tiplist {
-    flex-basis: 20%;
-}
-
 .bordered {
     border: 1px dashed blue;
 }
 
-.tip {
-    margin: 1rem 0 2rem 0;
-}
