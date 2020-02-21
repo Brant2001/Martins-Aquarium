@@ -1,7 +1,15 @@
 .fishList {
     flex-basis: 65%;
     display: flex;
-    flex-wrap: wrap
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    text-align: center;
+}
+
+.fish {
+    border: 3px outset steelblue;
+    padding: 1em;
+    margin: 0.5em;
 }
 
 .fish_image {
