@@ -1,6 +1,6 @@
 
-import { useFish } from "./fish/FishDataProvider.js";
-import Fish from "./fish/Fish.js"
+import { useFish } from "./FishDataProvider.js";
+import Fish from "./Fish.js"
 
 const contentTarget = document.querySelector(".fishList")
 
