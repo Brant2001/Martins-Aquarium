@@ -33,7 +33,7 @@ const fishCollection = [
         image: "https://floridapets.com/WebRoot/Store6/Shops/047c0125-dd4b-4d34-97de-30717de1adee/5BFC/132D/7548/AD52/2AE3/0A48/331F/297B/Ocellaris-clown-seg.jpg"
     },
     {
-        name: "Sea Demon",
+        name: "SeaDemon",
         species: "Black Seadevil",
         length: "3 ft",
         food: "Nemo and Dory",
@@ -41,7 +41,7 @@ const fishCollection = [
         image: "https://www.mindenpictures.com/cache/pcache2/90137301.jpg"
     },
     {
-        name: "Big Bertha",
+        name: "BigBertha",
         species: "Humpback Whale",
         length: "50 ft",
         food: "Krill",
