@@ -4,12 +4,16 @@
     flex-wrap: wrap;
     justify-content: space-evenly;
     text-align: center;
+    font-family: cursive;
+    background-color: rgba(255, 255, 255, 0.404);
 }
 
 .fish {
-    border: 3px outset steelblue;
+    border: 3px outset darkblue;
     padding: 1em;
     margin: 0.5em;
+    background-color: lightskyblue;
+    box-shadow: 5px 5px 5px 5px rgb(44, 116, 175);
 }
 
 .fish_image {

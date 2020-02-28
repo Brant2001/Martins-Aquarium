@@ -1,8 +1,10 @@
-.tip {
+.tipList__tip {
     margin: 1rem 0 2rem 0;
 }
 
-.tiplist {
+.tipList {
     flex-basis: 20%;
-    
+    font-family: cursive;
+    background-color: rgba(255, 255, 255, 0.404);
 }
+

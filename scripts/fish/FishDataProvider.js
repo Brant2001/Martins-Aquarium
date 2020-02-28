@@ -14,7 +14,7 @@ const fishCollection = [
         length: "2 ft",
         food: "Small Stuff",
         location: "Cumberland River",
-        image: "https://lh3.googleusercontent.com/proxy/dF75Uv1yY42zu_SLg40YZctDlkXb9j4LOBBwud0mWCLNSUJZg7yEieR_FTLbgNK9s0QyG7Cyy22tC0StmrV0ZKcATbUD9VoXaZ8AxESV09V6KGdB9buTUxw7iDRU-5jP"
+        image: "https://5.imimg.com/data5/OE/NB/FK/SELLER-4075233/flower-horn-fish-500x500.jpg"
     },
     {
         name: "Dory",
@@ -55,7 +55,23 @@ const fishCollection = [
         food: "Nemo and Dory",
         location: "Lot's of Places",
         image: "https://discovery.sndimg.com/content/dam/images/discovery/editorial/shows/s/shark-week-/photo-galleries/hammer-head-sharks/hammerhead-shark-2.jpg.rend.hgtvcom.966.644.suffix/1559943191625.jpeg"
-    }
+    },
+    {
+        name: "Daenerys",
+        species: "White Dragon King Crown Beta",
+        length: "2 in",
+        food: "Beta Fish",
+        location: "Essos",
+        image: "https://i.pinimg.com/originals/a0/b1/f0/a0b1f029879dbd1a405ef3261a907436.jpg"
+    },
+    {
+        name: "Gryskod",
+        species: "Catfish Mutant",
+        length: "9 ft",
+        food: "Humans",
+        location: "Darkest Place In The Deepest Swamp",
+        image: "https://www.seekpng.com/png/detail/216-2167854_710px-mirelurk-710768-mirelurk-queen-fan-art-fallout.png"
+    },
 
 ]
 
