@@ -4,9 +4,9 @@ const fishCollection = [
         species: "Axalot",
         length: "1 ft",
         food: "Some Stuff",
-        location: "Places",
+        location: "Xochimilco, Mexixo City",
         image: "https://boringduckling.com/wp-content/uploads/2014/04/axolotl-mexican-walking-fish-101.jpg"
-        
+
     },
     {
         name: "Betty",
@@ -53,7 +53,7 @@ const fishCollection = [
         species: "Hammerhead",
         length: "20 ft",
         food: "Nemo and Dory",
-        location: "Lot's of Places",
+        location: "Warmer Coastal Areas",
         image: "https://discovery.sndimg.com/content/dam/images/discovery/editorial/shows/s/shark-week-/photo-galleries/hammer-head-sharks/hammerhead-shark-2.jpg.rend.hgtvcom.966.644.suffix/1559943191625.jpeg"
     },
     {
@@ -61,7 +61,7 @@ const fishCollection = [
         species: "White Dragon King Crown Beta",
         length: "2 in",
         food: "Beta Fish",
-        location: "Essos",
+        location: "The Narrow and Summer Seas",
         image: "https://i.pinimg.com/originals/a0/b1/f0/a0b1f029879dbd1a405ef3261a907436.jpg"
     },
     {
@@ -71,6 +71,14 @@ const fishCollection = [
         food: "Humans",
         location: "Darkest Place In The Deepest Swamp",
         image: "https://www.seekpng.com/png/detail/216-2167854_710px-mirelurk-710768-mirelurk-queen-fan-art-fallout.png"
+    },
+    {
+        name: "Gary",
+        species: "Giant Sea Bass",
+        length: "4 ft",
+        food: "Smaller Fish",
+        location: "Off The Shores Of California and Mexico",
+        image: "https://www.montereybayaquarium.org/-/m/images/animal-guide/fishes/giant-sea-bass-largest.jpg?bc=white&h=1600&mh=916&mw=1222&w=2128&usecustomfunctions=1&cropx=147&cropy=0"
     },
 
 ]
