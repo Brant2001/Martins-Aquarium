@@ -1,0 +1,22 @@
+.locationList {
+    flex-basis: 30%;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+    text-align: center;
+    font-family: cursive;
+    background-color: rgba(255, 255, 255, 0.404);
+}
+
+.locationItem {
+    border: 3px outset darkblue;
+    padding: 1em;
+    margin: 0.5em;
+    background-color: lightskyblue;
+    box-shadow: 5px 5px 5px 5px rgb(44, 116, 175);
+}
+
+.locationItem__image {
+    max-width: 300px;
+    max-height: 200px;
+}
