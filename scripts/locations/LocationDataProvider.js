@@ -1,6 +1,6 @@
 const locationCollection = [
     {
-        image: "https://lh3.googleusercontent.com/proxy/ttLSDqqDd9Rgj8f7QphrUbZBGXID5FCYqkTJkmlqVWzf_5Kk1qPuwFqmLn0JkNetycFrSH56TQM_jHTRjIcW9KlQXocnAcQrci_cXsUsOKJ2N21rDY5nRtPdEtos_LmlX8fW3Am3dcfJ8EMmKGLCxSIlCx7IuxSQBd4wGo7q6KB1xfXO6ahitvfee_pgnpT1oA85kS76up_HMhA",
+        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/ParqueEcologico.JPG/1200px-ParqueEcologico.JPG",
         location: "Xochimilco, Mexixo City",
     },
     {
